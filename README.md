@@ -1,5 +1,5 @@
-<p align="center"><em>Hi there 👋, I am Doaa Yehia </em></p> 
-<p align="center"><em> Computer science student at Ain shams university. </em></p> 
+<h1 align="center">Hi there 👋, I am Doaa Yehia </h1> 
+<h2 align="center"> Computer science student at Ain shams university. </h2> 
 🔭 I’m currently learning web development <br>👯 I’m looking to collaborate on big project <br>🤝 I’m looking for help with spring and react <br> 
 
 
