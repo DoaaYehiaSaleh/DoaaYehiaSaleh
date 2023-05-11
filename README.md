@@ -1,6 +1,6 @@
-<bold>Hi there 👋, I am Doaa Yehia</bold><br>
+<bold> Hi there 👋, I am Doaa Yehia</bold><br>
 <bold>Computer science student.</bold><br>
-🔭 I’m currently learning web development <br>👯 I’m looking to collaborate on big project <br>🤝 I’m looking for help with spring and react <br>🌱 
+🔭 I’m currently learning web development <br>👯 I’m looking to collaborate on big project <br>🤝 I’m looking for help with spring and react <br> 
 
 
 ## 🌐 Socials:
