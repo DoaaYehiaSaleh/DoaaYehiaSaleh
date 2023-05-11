@@ -1,5 +1,5 @@
-<h1> Hi there 👋, I am Doaa Yehia</h1><br>
-<h2>Computer science student at Ain shams university.</h2><br>
+<h1>               Hi there 👋, I am Doaa Yehia</h1><br>
+<h2>        Computer science student at Ain shams university.</h2><br>
 🔭 I’m currently learning web development <br>👯 I’m looking to collaborate on big project <br>🤝 I’m looking for help with spring and react <br> 
 
 
